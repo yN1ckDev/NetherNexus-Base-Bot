@@ -11,6 +11,7 @@ To start the bot you must fill in the config.json file and then type node . in t
 # 🔗 ⇢ Links
 
 Discord: https://dsc.gg/nethernexus
+
 Bot Developer: https://github.com/Cryyppp | crypdev_ (Discord)
 
 # ⚠️ ⇢ Read carefully
